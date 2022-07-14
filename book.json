@@ -1,0 +1,22 @@
+{
+  "title": "Web3Guidebook",
+  "language": "zh-hans",
+  "root": ".",
+
+  "plugins": [
+    "chapter-fold",
+    "-search",
+    "search-pro",
+    "code",
+    "splitter",
+    "popup",
+    "anchor-navigation-ex"
+  ],
+
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "showLevel": false
+    }
+  }
+
+}
